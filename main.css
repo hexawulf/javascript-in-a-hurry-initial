@@ -4,6 +4,13 @@
   --gray-color: #cccccc;
   --dark-gray-color: #858584;
 }
+
+
+.redbg {
+  background-color: red;
+} 
+
+
 html {
   box-sizing: border-box;
   font-size: 16px;
